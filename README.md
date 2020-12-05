@@ -1,6 +1,8 @@
 # Project_4-Wine-Quality
 Classification project Anat Peled & Guy Kahana
 
+Kaggle Notebook: https://www.kaggle.com/anatpeled/multi-class-classification-for-wine-quality
+
 The dataset was taken from Kaggle, but originally downloaded from the UCI Machine Learning Repository.
 
 The dataset refers to red and white variants of the Portuguese "Vinho Verde" wine. 
